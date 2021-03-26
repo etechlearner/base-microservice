@@ -1,2 +1,2 @@
-# java-base-structure-
+# Base Microservice
 Spring Boot Base Application Structure
